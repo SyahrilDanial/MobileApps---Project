@@ -31,17 +31,17 @@ the user to make reservation on the available rooms within IIUM. The functions l
 ![alt text](sequencediagram.jpg)
 # Apps Screen Capture
 Login - Login and signup page of the app  
-![alt text](loginreg.jpeg)  
+![alt text](loginreg.jpeg)    
 Main page - The main page of the app after the user log into the apps.  
-![alt text](main.jpeg)  
+![alt text](main.jpeg)    
 View available room to book  
-![alt text](availvenue.jpeg)  
+![alt text](availvenue.jpeg)    
 View available facilities to book  
-![alt text](availfaci.jpeg)  
+![alt text](availfaci.jpeg)    
 Reservation - This is the page where users can make reservation  
-![alt text](reservation.jpeg)  
+![alt text](reservation.jpeg)    
 Cancellation - User can make cancellation of their booking here  
-![alt text](cancelation.jpeg)  
+![alt text](cancelation.jpeg)    
 
 # Challenges  
 1) Encountered error during dependecies installation.
