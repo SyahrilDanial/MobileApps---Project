@@ -4,7 +4,8 @@
 # Introduction of the proposed mobile application. 
 # Objective of the proposed mobile application. 
 # Features and Functionalities 
-# Screen Navigation 
+# Screen Navigation  
+![alt text](screennavi.jpeg)
 # Sequence Diagram
 # Apps Screen Capture
 # Challenges  
