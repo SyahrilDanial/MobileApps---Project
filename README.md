@@ -6,7 +6,8 @@
 # Features and Functionalities 
 # Screen Navigation  
 ![alt text](screennavi.jpeg)
-# Sequence Diagram
+# Sequence Diagram  
+![alt text](sequencediagram.jpg)
 # Apps Screen Capture
 # Challenges  
 1) Encountered error during dependecies installation.
